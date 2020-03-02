@@ -1,9 +1,9 @@
 # MSDS692_CrimePrediction
 
+
 MSDS-692 - Data Science Practicum
 Marlon Fletcher
 Regis University 
-
 
 Title: Crime Prediction using public data from LA 
 
@@ -41,3 +41,4 @@ The specific project tasks are outlined in the Project Table of Contents section
 7.	Model Analysis
 8.	Final Model Selection comparison
 9.	References
+
