@@ -1,7 +1,14 @@
 # MSDS692_CrimePrediction
+
+MSDS-692 - Data Science Practicum
+Marlon Fletcher 
+Regis University 
+
 Crime Prediction using public data from City of Los Angeles
+
 The specific tasks associated with this project are designed to align with and adhere to the standard data science project lifecycle. 
 The project will be initiated with the data collection phase and end with the primary model selection and analysis.  
+
 The specific project tasks are outlined in the Project Table of Contents section below. 
 1.	Import ML Libraries
 2.	Import Dataset
